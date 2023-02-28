@@ -51,7 +51,9 @@
   .icon{
     margin-right: .5rem;
   }
-  
+  .vue{
+    margin-left:2rem;
+  }
   .cv-container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
